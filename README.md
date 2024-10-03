@@ -1,7 +1,7 @@
 
 # T20 Cricket Analysis Dashboard
 
-### Dashboard Link :https://app.powerbi.com/reportEmbed?reportId=75106b0a-f353-47ec-97fb-b9ea4cc082b4&autoAuth=true&ctid=67aa3057-0b7a-4537-8f9a-a20929f3ad08
+### Dashboard Link : https://app.powerbi.com/reportEmbed?reportId=75106b0a-f353-47ec-97fb-b9ea4cc082b4
 
 ## Problem Statement
 
