@@ -1,5 +1,5 @@
 
-# T20 Cricket Analysis Dashboard
+# T20 Cricket Analysis
 
 ### Dashboard Link : https://app.powerbi.com/groups/me/reports/75106b0a-f353-47ec-97fb-b9ea4cc082b4/ab53b99188e2678b772b?experience=power-bi
 
